@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/akwaaba-chatbot/static/css/main.fd6934f5.css",
+    "main.js": "/akwaaba-chatbot/static/js/main.b4ad2f5f.js",
+    "static/js/453.82b11593.chunk.js": "/akwaaba-chatbot/static/js/453.82b11593.chunk.js",
+    "index.html": "/akwaaba-chatbot/index.html",
+    "main.fd6934f5.css.map": "/akwaaba-chatbot/static/css/main.fd6934f5.css.map",
+    "main.b4ad2f5f.js.map": "/akwaaba-chatbot/static/js/main.b4ad2f5f.js.map",
+    "453.82b11593.chunk.js.map": "/akwaaba-chatbot/static/js/453.82b11593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd6934f5.css",
+    "static/js/main.b4ad2f5f.js"
+  ]
+}
